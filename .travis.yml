@@ -1,6 +1,6 @@
 language : python
 python :
-− "2.6"
-− "3.6"
-s c r i p t :
-− p y t e s t
+  − "2.6"
+  − "3.6"
+script :
+  − p y t e s t
